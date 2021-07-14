@@ -44,6 +44,6 @@ Finally, you can generate a certificate with other plugins, or in "standalone" (
 
 Note - valid parameters for the plugin are:
 
-`--authenticator certbot-dns-bunny:dns-bunny` (this is required)
-`--certbot-dns-bunny:dns-bunny-credentials /path/to/your/bunny.ini` (this is required)
-`--certbot-dns-bunny:dns-bunny-propagation-seconds 120` (optional parameter; default is 120 seconds, however, you can change this to any reasonable number)
+- `--authenticator certbot-dns-bunny:dns-bunny` (this is required)
+- `--certbot-dns-bunny:dns-bunny-credentials /path/to/your/bunny.ini` (this is required)
+- `--certbot-dns-bunny:dns-bunny-propagation-seconds 120` (optional parameter; default is 120 seconds, however, you can change this to any reasonable number)
