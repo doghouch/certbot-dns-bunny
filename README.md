@@ -20,7 +20,11 @@ Once you've created the file, make sure to set safe permissions:
 
 ### Installation
 
-To begin, clone the repository. Then, perform:
+To begin, clone the repository. 
+
+    git clone https://github.com/doghouch/certbot-dns-bunny.git
+
+Then, perform:
 
     pip3 install -e /path/to/plugin/repository
 
