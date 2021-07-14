@@ -1,0 +1,3 @@
+[certbot.plugins]
+dns-bunny = certbot_dns_bunny.dns_bunny:Authenticator
+
