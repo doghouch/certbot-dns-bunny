@@ -1,5 +1,7 @@
 # Bunny.net DNS Certbot Plugin
 
+### ⚠️ NOTE: THIS IS NO LONGER MAINTAINED. PLEASE [CHECK THIS OUT](https://github.com/mwt/certbot-dns-bunny) INSTEAD. ⚠️
+
 ### Information
 
 This plugin is in BETA and works in conjunction with Certbot in order to issue wildcard (or regular) certificates. 
